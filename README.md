@@ -1,70 +1,10 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="948" alt="pic1" src="https://github.com/omprakash8788/Shop-House/assets/112754995/bdc83306-8dab-4926-bf29-6a1b23b95195">
+<img width="960" alt="pic2" src="https://github.com/omprakash8788/Shop-House/assets/112754995/d0207ca0-3187-41ae-ba80-f107442c2ede">
+<img width="942" alt="pic3" src="https://github.com/omprakash8788/Shop-House/assets/112754995/90608c28-29e9-42a9-8e08-29dc2a704b12">
+<img width="960" alt="pic4" src="https://github.com/omprakash8788/Shop-House/assets/112754995/49e467c7-0621-4961-8b0a-f45682fdd6c1">
+<img width="960" alt="pic6" src="https://github.com/omprakash8788/Shop-House/assets/112754995/12489da9-98a0-4d67-a8f0-a0ee65c18c50">
+<img width="946" alt="pic7" src="https://github.com/omprakash8788/Shop-House/assets/112754995/739048e5-50d5-4ef2-b929-aa439f697aab">
+<img width="946" alt="pic7" src="https://github.com/omprakash8788/Shop-House/assets/112754995/1c224fa8-8c31-4d78-af66-d3028463e6fe">
+<img width="846" alt="pic8" src="https://github.com/omprakash8788/Shop-House/assets/112754995/7e2f15fa-8260-441e-b4a3-19b4ea2d6330">
+<img width="960" alt="pic9" src="https://github.com/omprakash8788/Shop-House/assets/112754995/c5066ce9-4466-435c-af25-dda930539b05">
+<img width="846" alt="pic10" src="https://github.com/omprakash8788/Shop-House/assets/112754995/fa6af7a4-742d-491a-80fa-d71544c66385">
